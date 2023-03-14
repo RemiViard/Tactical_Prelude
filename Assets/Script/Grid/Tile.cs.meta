@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e25edd3c815654f4fbc404579101e45c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enlightSprite: {fileID: 21300000, guid: 1a8d8366c5032ed48ab7fa33d79ee964, type: 3}
+  - selectedSprite: {fileID: 21300000, guid: e9e0b35d7c4c29b42ba69bbacce0a1a6, type: 3}
+  - moveableSprite: {fileID: 21300000, guid: 992a9a7107748f34994a77882aad4d27, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5d300b54cd734bf43aac08f065956faa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turnSpritePrefab: {fileID: 3837505028221243931, guid: 555abc0294e16c4468bc7fb2c612d437, type: 3}
+  - playerController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

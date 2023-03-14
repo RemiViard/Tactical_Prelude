@@ -1,0 +1,8 @@
+#Visual studio
+.vs/
+.vsconfig
+
+#Unity Files
+Library/
+Logs/
+Temp/
